@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div className="App">
       <Bonjour name="CodeSandBox" />
-      <h2>Start editi  ng to see some magic happen!</h2>
+      <h2>Start editi to see some magic happen!</h2>
     </div>
   );
 };
